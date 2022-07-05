@@ -1,0 +1,2 @@
+# Learning-Data-Analysis-Python
+In this repo you will find the teaching content to learn Python applied to data analysis. You will find lessons from the most basic concepts, data types, types of data structures, flow control, through data collection (API's, web scrapping), database uses (SQL, Mongo), data cleaning (pandas, numpy) to a first approach to the most used algorithms in machine learning (Linear Regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, NLP).  
